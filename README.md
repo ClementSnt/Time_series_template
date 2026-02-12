@@ -1,4 +1,4 @@
-** Daily Volume Forecasting – Time Series Templates library ** 
+# Daily Volume Forecasting – Time Series Templates library 
 
 This repository will contain a set of reusable time series forecasting templates for daily volume prediction over long-term horizons.
 
